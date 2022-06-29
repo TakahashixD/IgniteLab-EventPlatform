@@ -1,5 +1,5 @@
 # IgniteLab-EventPlatform
-## Plataforma de eventos IgniteLab
+<p align="center">Plataforma de eventos IgniteLab</p>
 <h1 align="center">
 <p align="center">Tecnologias</p>
 </h1>
